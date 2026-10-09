@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="icon.png" width="96" alt="SmartSave" />
+  <img src="icon.png" width="96" alt="Rialito" />
 </p>
 
-<h1 align="center">SmartSave</h1>
+<h1 align="center">Rialito</h1>
 
 <p align="center">
   Gestor de finanzas personales: metas de ahorro, patrimonio neto, gastos fijos y hormiga,<br/>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://smartsave.webtrader.trade/">🔗 Ver landing / demo interactivo</a>
+  <a href="https://rialito.webtrader.trade/">🔗 Ver landing / demo interactivo</a>
 </p>
 
 > 🔒 **El código fuente de este proyecto es privado.** Este repositorio es una vista general (arquitectura, features, capturas) para portafolio. Código disponible bajo solicitud en una entrevista.
