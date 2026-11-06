@@ -10,10 +10,12 @@
 </p>
 
 <p align="center">
-  <a href="https://rialito.webtrader.trade/">🔗 Ver landing / demo interactivo</a>
+  <a href="https://rialito.webtrader.trade">🔗 Sitio del proyecto</a> ·
+  <a href="https://rialito.webtrader.trade/app/">📱 Probar la app en la web</a> ·
+  <a href="https://rialito-app.webtrader.trade">👥 Página para usuarios</a>
 </p>
 
-> 🔒 **El código fuente de este proyecto es privado.** Este repositorio es una vista general (arquitectura, features, capturas) para portafolio. Código disponible bajo solicitud en una entrevista.
+> 🔒 **El código fuente de este proyecto es privado.** Este repositorio es una vista general (arquitectura, funciones, capturas) para portafolio. El código está disponible bajo solicitud en una entrevista.
 
 ---
 
